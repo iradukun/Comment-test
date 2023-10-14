@@ -1,0 +1,14 @@
+node_modules
+dist
+
+# env
+.env
+*.local
+
+.DB_Store
+
+# lock fils
+package-lock.json
+yarn.lock
+pnp-lock.yaml
+bun.lockb
